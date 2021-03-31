@@ -1,2 +1,2 @@
-# weatherData-DCGAN
+# MDCGAN
 Generate meteorological data with DCGAN
