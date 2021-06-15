@@ -11,4 +11,4 @@ Artificial intelligence (AI) profoundly affects the research of meteorology. As 
 
 ## Usage
 
-Use prameter2.pkl in the model file to generate weather data
+Use parameter2.pkl in the model file to generate weather data
